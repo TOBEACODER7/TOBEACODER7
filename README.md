@@ -17,4 +17,4 @@ You can find me on:
 
 ## My Music
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31raivffs5qydgyfc4s4ykekpg7q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<script src="https://gist.github.com/TOBEACODER7/ad51b608e153f971d6fb4e90dc7ae607.js"></script>
