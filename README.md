@@ -10,4 +10,3 @@ Here are some items to help you learn me more:
 - 📫 How to reach me: 📮TOBE_ACODER@163.com
 - 🏃‍♀️ I love running and you can see me data in:https://running-page-green.vercel.app/
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TOBEACODER7&show_icons=true&theme=dark&count_private=true)
