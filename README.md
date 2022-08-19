@@ -8,6 +8,6 @@ Here are some intros to help you learn me more:
 - 🤔 I’m looking for help with Google & Github
 - 💬 Ask me about anything if I can help you ~  
 - 📫 How to reach me: 📮TOBE_ACODER@163.com
-- 🏠 My homepage：[lawrencee.top](lawrencee.top)
-- 🏃‍♀️ I love running and you can see me data in:[run.lawrencee.top](run.lawrencee.top)
+- 🏠 My homepage：[lawrencee.top](https://www.lawrencee.top)
+- 🏃‍♀️ I love running and you can see me data in:[run.lawrencee.top](https://www.run.lawrencee.top)
 
